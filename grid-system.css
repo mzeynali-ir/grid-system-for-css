@@ -1,10 +1,11 @@
 
-/* default */
+
 .row {
     display: flex;
     flex-wrap: wrap;
 }
 
+/* default */
 .col-1 {
     flex: 0 0 8.333333%;
     max-width: 8.333333%;
